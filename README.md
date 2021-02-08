@@ -2,7 +2,6 @@
 
 # cisahack.github.io
 
-Screen Shot 2021-02-08 at 3.24.52 AM
 
 # Katara
 
